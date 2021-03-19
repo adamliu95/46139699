@@ -1,0 +1,1 @@
+curl https://www.staff.hs-mittweida.de/~wuenschi/doku.php?id=rwbook2/chapter-10-shell-programming--chg-pwd.sh -o case-cp.sh
